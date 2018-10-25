@@ -1,5 +1,6 @@
 "# NetProgFinal" 
 
+
 a. Project Name: Chat Program
 
 b. Project Description:
@@ -23,3 +24,4 @@ d. Plan
 	week 6: finishing touches, finalize GUI
 
 e. Alton DeLuca, Ryan Gould
+
