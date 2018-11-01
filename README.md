@@ -31,8 +31,11 @@ e. Alton DeLuca, Ryan Gould
 3. Be more specific on each of the deliverables by adding descriptions to them
 E.g., 
 * Server Backend
+
 a. Handle client-server connection
+
 b. Handle forwarding client messages
+
 4. I would expect this program to support more than 2 clients at the same time and be able to send media like pictures, video...So include these in your deliverables as well
 5. You have only 4 weeks for implementation, so make sure to adjust the plan accordingly
 
