@@ -25,7 +25,7 @@ d. Plan
 
 e. Alton DeLuca, Ryan Gould
 
-#Comments
+# Comments
 1. You should follow the README.md template on blackboard to have a better layout of your README page
 2. ProgressUpdades.md is missing for the first week. Download the template from Blackboard as well and start giving weekly updates
 3. Be more specific on each of the deliverables by adding descriptions to them
