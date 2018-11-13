@@ -31,3 +31,16 @@
 
 ### Any blocking issues/challenges need to be addressed?
 * work out some bugs with the code
+
+## Week 1 (Nov 12 - Nov 19)
+
+### What did your team do last week?
+* finalized the back-end server with multithreading to implement the chat program
+* 
+
+### What will you do this week?
+* begin GUI
+* finishing touches on Client 
+### Any blocking issues/challenges need to be addressed?
+* minor bugs
+* error checking
