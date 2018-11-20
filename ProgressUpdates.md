@@ -1,5 +1,4 @@
 # Progress Updates (Oct 29 - Nov 30)
-
 ## Week 1 (Oct 29 - Nov 5)
 
 ### What did your team do last week?
@@ -32,7 +31,7 @@
 ### Any blocking issues/challenges need to be addressed?
 * work out some bugs with the code
 
-## Week 1 (Nov 12 - Nov 19)
+## Week 3 (Nov 12 - Nov 19)
 
 ### What did your team do last week?
 * finalized the back-end server with multithreading to implement the chat program
@@ -44,3 +43,13 @@
 ### Any blocking issues/challenges need to be addressed?
 * minor bugs
 * error checking
+## Week 4 (Nov 14 - Nov 21)
+
+### What did your team do last week?
+* start implementing gui
+
+### What will you do this week?
+* continue work on GUI
+
+### Any blocking issues/challenges need to be addressed?
+*none
